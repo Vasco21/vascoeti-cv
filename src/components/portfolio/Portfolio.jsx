@@ -1,7 +1,6 @@
 import React from "react";
 import "./portfolio.css";
 import GITHUB from "../../assets/github.png";
-import SALON from "../../assets/salon.png";
 import OGRNA from "../../assets/Organizations.png";
 import Regiteration from '../../assets/registration.png'
 import template from '../../assets/template.png'
@@ -34,24 +33,6 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio_item-image">
-            <img src={SALON} alt="github" />
-          </div>
-          <h3>BeautyMarket Appllication</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com/Vasco21/beautymarket-app" className="btn">
-              Github
-            </a>
-            <a
-              href="https://breakemarket-app.netlify.app"
-              className="btn btn-primary"
-              target="=_blank"
-            >
-              Live Demo
-            </a>
-          </div>
-        </article>
-        <article className="portfolio__item">
-          <div className="portfolio_item-image">
             <img src={OGRNA} alt="github" />
           </div>
           <h3>MY Group Organization Website</h3>
@@ -60,7 +41,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://creative-power-org.netlify.app"
+              href="https://creativepower-org.netlify.app/"
               className="btn btn-primary"
               target="=_blank"
             >
