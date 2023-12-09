@@ -41,16 +41,17 @@ const About = () => {
             </article>
           </div>
           <p>
-          I am a hard worker and enjoying to solve problems in any project that require me to work on. 
-          During the course of my academic career, I also managed to accrue nearly 3+ years of work experience 
-          in Full Stack Software Developer. I had the privilege of working for Institute of Mine Seismology in a 
-          seismic waves ,control and conduct seismic tests to find and record sound waves from energy sources under 
-          the earth's surface role, for 10 years.
-          I learned valuable professional skills such as Mobile web developer and full stack software developer. 
-          In both my academic and professional life, I have been consistently praised as quality-oriented by 
-          my professors and peers. Whether working on academic, extracurricular, or professional projects, 
-          I apply proven communication, creative thinking and language skills. 
-          Am still on the field studying Data Science career role.
+          I am a hard worker and enjoying solving problems in any project that require me
+          to work on. During the course of my academic career, I also managed to accrue
+          nearly 3+ years of work experience in Full Stack Software Developer. I had the
+          privilege of working for Institute of Mine Seismology in a seismic wave, control
+          and conduct seismic tests to find and record sound waves from energy sources
+          under the earth's surface role, for 10 years. I learned valuable professional skills
+          such as Mobile Web developer and Data Science. In both my academic and
+          professional life, I have been consistently praised as quality-oriented by my
+          professors and peers. Whether working on academic, extracurricular, or
+          professional projects, I apply proven communication, creative thinking and
+          language skills, and I am undergraduate for Full-Stack Software Engineering
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
